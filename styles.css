@@ -10,4 +10,8 @@ body  {
   font-size: 160%;
 }
 
-
+a:visited 
+{
+    text-decoration: none;
+    decoration: none; 
+}
