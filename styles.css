@@ -4,14 +4,16 @@ h1 {
   font-size: 300%;
 
 }
-body  {
-  color: red;
-  font-family: courier;
-  font-size: 160%;
-}
+
 
 a
 {
     color: #66c20a ;
     text-decoration: none;
+}
+
+body  {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
 }
